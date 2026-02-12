@@ -1,0 +1,14 @@
+C:\server-monitor\ServerMonitor.App\bin\Debug\net10.0\ServerMonitor.App.exe
+C:\server-monitor\ServerMonitor.App\bin\Debug\net10.0\ServerMonitor.App.deps.json
+C:\server-monitor\ServerMonitor.App\bin\Debug\net10.0\ServerMonitor.App.runtimeconfig.json
+C:\server-monitor\ServerMonitor.App\bin\Debug\net10.0\ServerMonitor.App.dll
+C:\server-monitor\ServerMonitor.App\bin\Debug\net10.0\ServerMonitor.App.pdb
+C:\server-monitor\ServerMonitor.App\obj\Debug\net10.0\ServerMonitor.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\server-monitor\ServerMonitor.App\obj\Debug\net10.0\ServerMonitor.App.AssemblyInfoInputs.cache
+C:\server-monitor\ServerMonitor.App\obj\Debug\net10.0\ServerMonitor.App.AssemblyInfo.cs
+C:\server-monitor\ServerMonitor.App\obj\Debug\net10.0\ServerMonitor.App.csproj.CoreCompileInputs.cache
+C:\server-monitor\ServerMonitor.App\obj\Debug\net10.0\ServerMonitor.App.dll
+C:\server-monitor\ServerMonitor.App\obj\Debug\net10.0\refint\ServerMonitor.App.dll
+C:\server-monitor\ServerMonitor.App\obj\Debug\net10.0\ServerMonitor.App.pdb
+C:\server-monitor\ServerMonitor.App\obj\Debug\net10.0\ServerMonitor.App.genruntimeconfig.cache
+C:\server-monitor\ServerMonitor.App\obj\Debug\net10.0\ref\ServerMonitor.App.dll
